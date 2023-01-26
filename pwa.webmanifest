@@ -1,0 +1,16 @@
+{
+    "name": "Progressive Web App",
+    "short_name": "PWA",
+    "description": "Aplicación web progresiva que muestra mi CV",
+    "icons": [
+      {
+        "src": "icons/icono.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      }    
+    ],
+    "start_url": "/http://127.0.0.1:5500/pwa/index.html",
+    "display": "fullscreen",
+    "theme_color": "rgb(128, 127, 127)",
+    "background_color": "#rgb(128, 127, 127)"
+  }

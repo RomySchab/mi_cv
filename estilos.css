@@ -1,0 +1,75 @@
+*{
+    max-width: 100%;
+  
+}
+h1{
+    text-align: center;
+    font-size: 30px; 
+    font-family: 'Open Sans';
+    font-weight:100;
+    color: grey;
+}  
+section{
+    border-bottom:3px solid grey;
+    padding: 10px;
+    margin: 10px 15px 10px;
+    text-align: justify;
+    float: left;
+ 
+}
+#name{
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    padding: 40px 10 px 20px;
+    font-weight: bold;
+    font-family: 'Lucida Sans';
+    font-size: 63px; 
+    color: rgb(9, 9, 78);
+    text-align: center;
+}
+.clase1{
+   font-weight: bold;
+   color: rgb(77, 78, 105) 
+}
+.clase2{
+    font-size: 20px; 
+    font-weight: bold; 
+    color: rgb(9, 9, 78) ; 
+    text-align: center;
+}
+.contenedor{
+    border-top:3px solid grey;
+    border-color: grey;
+  
+}
+header{
+    float: top;
+}
+main{
+    float: left;
+   
+}
+aside{
+    margin-top: 60px;
+    margin-right: 60px;
+    float:right;
+}
+nav{
+    margin-top: 15px;
+    float:center;
+    border-bottom:3px solid grey;
+    border-color: rgb(128, 127, 127);
+}
+footer{
+    margin-top: 50px;
+    padding: 50px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    clear: both; 
+}
+.scroll {
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
